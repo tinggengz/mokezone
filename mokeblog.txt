@@ -1,5 +1,5 @@
 墨客博客, 不沉默则成魔
-仓库命名错误，本地仓库名更正后，重新对接了本地仓库和github上仓库, 记录本次修改, from mountTai-git
+仓库命名错误，本地仓库名更正后，重新对接了本地仓库和github上仓库, 记录本次修改, from mountTai-git, from yuHuaiTai, after merge 
 我是泰山，我刚拿到了mokeblog.txt, 现在我修改了，
 上一行是有windows 凭据没删除，导致其实是以原先用户凭据登录的，现在才是以泰山身份登录
 我再修改--来自泰山
